@@ -10,3 +10,7 @@
 - A criação de um `__init__.py` no diretório permite que ele seja invocado como módulo
 - Se for um pacote com vários módulos, cada subdiretório de "submódulo" irá ter um `__init__.py` também.
 - O `setup.py` é usado para especificar como o pacote deve ser construído.
+- `requirements.txt` é usado para passar dependências que devem ser instaladas com o pacote, a especificação de versões é opcional.
+- O Arquivo `README` é exibido na documentação na página do Pypi do pacote
+- As distribuição será apenas um arquivo. Pode ser binária (`wheel`) ou de código-fonte (`sdist`), as versões mais recentes do `pip` só usam o código-fonte se necessário.
+- É uma boa prática enviar as duas distruibções para o Pypi.
