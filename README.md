@@ -1,10 +1,9 @@
-# package_name
+# Desafio-002 : Pacote de Processamento de Imagens
 
+## Sobre
+Esse projeto consiste na criação de um pacote para python, com base no curso ministrado por Karina Kato.
+Anotações das aulas podem ser vistas [aqui](anotacoes.md).
 
-Description. 
-The package package_name is used to:
-	- 
-	-
 
 ## Installation
 
@@ -22,8 +21,9 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Adriano Romero
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
 
